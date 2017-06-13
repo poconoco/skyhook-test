@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "243056367161",
+    "firebase_url": "https://skyhookintegrationtest.firebaseio.com",
+    "project_id": "skyhookintegrationtest",
+    "storage_bucket": "skyhookintegrationtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243056367161:android:c391783c8181c8b2",
+        "android_client_info": {
+          "package_name": "com.qarea.skyhookintegrationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243056367161-6k1i2v6ukgqijmq1v1vl9qajgru5afni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qarea.skyhookintegrationtest",
+            "certificate_hash": "5a84f5da5c09d81e192008aebacdb3ace5cd4d4e"
+          }
+        },
+        {
+          "client_id": "243056367161-6j80315rikop53vo6od87dcj3ln4t0tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvD9tBy581m_5Mh5kSb6bwFCtRCfEJZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243056367161-6j80315rikop53vo6od87dcj3ln4t0tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
