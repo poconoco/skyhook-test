@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity implements AcceleratorClient
         setContentView(R.layout.activity_main);
 
         accelerator = new AcceleratorClient(this, "eJwVwckJACAMBMC3xQTMYeJ7XWxK7F2c0ab9y4psBzGDqhAuTxnOLruMsmwQtQ2g3wcSyAtL", this, this);
-        accelerator.connect();
+//        accelerator.connect();
     }
 
     private AcceleratorClient accelerator;
